@@ -67,7 +67,7 @@ export default function AboutPage() {
         <div className="flex flex-col md:flex-row items-center justify-center gap-10 max-w-5xl mx-auto mb-20">
           <div className="w-48 h-48 rounded-full overflow-hidden border-4 border-purple-300 shadow-lg">
             <Image
-              src="/Profile.jpg"
+              src="/Profile.JPG"
               alt="Coumba"
               width={192}
               height={192}
