@@ -11,8 +11,8 @@ export default function ContactPage() {
           Contactez-moi 💌
         </h1>
         <p className="text-lg text-gray-700 mb-12">
-          Je serais ravie de discuter d'un projet, d'une collaboration ou simplement d'échanger !
-        </p>
+        Je serais ravie de discuter d&apos;un projet, d&apos;une collaboration ou simplement d&apos;échanger !
+       </p>
 
         <div className="flex flex-col md:flex-row justify-center items-center gap-10 text-left max-w-3xl mx-auto">
           {/* Email */}
@@ -20,8 +20,8 @@ export default function ContactPage() {
             <FaEnvelope className="text-2xl text-blue-500" />
             <div>
               <h3 className="font-semibold">Email</h3>
-              <a href="mailto:coumba@email.com" className="text-blue-600 hover:underline">
-                coumba@email.com
+              <a href="mailto:scoumba327@gmail.com" className="text-blue-600 hover:underline">
+                scoumba327@gmail.com
               </a>
             </div>
           </div>
@@ -32,11 +32,11 @@ export default function ContactPage() {
             <div>
               <h3 className="font-semibold">LinkedIn</h3>
               <a
-                href="https://linkedin.com/in/tonprofil"
+                href="https://linkedin.com/in/coumbaseck"
                 target="_blank"
                 className="text-purple-600 hover:underline"
               >
-                linkedin.com/in/tonprofil
+                linkedin.com/in/coumbaseck
               </a>
             </div>
           </div>
@@ -47,11 +47,11 @@ export default function ContactPage() {
             <div>
               <h3 className="font-semibold">GitHub</h3>
               <a
-                href="https://github.com/tonprofil"
+                href="https://github.com/coumbaseck"
                 target="_blank"
                 className="text-gray-700 hover:underline"
               >
-                github.com/tonprofil
+                github.com/coumbaseck
               </a>
             </div>
           </div>

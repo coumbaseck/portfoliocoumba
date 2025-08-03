@@ -78,27 +78,20 @@ export default function AboutPage() {
           <div className="space-y-6 max-w-xl text-center md:text-left">
             <div className="bg-white p-6 rounded-xl shadow-md border-l-4 border-pink-300">
               <h3 className="text-xl font-semibold mb-1">🎓 Mon profil académique</h3>
-              <p>
-                Actuellement en <strong>Master 2 en Génie Logiciel</strong>, je me spécialise dans le
-                développement complet d'applications web et mobiles.
-              </p>
+              <p>Actuellement en <strong>Master 2 en Génie Logiciel</strong>, je me spécialise dans le développement complet d&apos;applications web et mobiles.</p>
+
             </div>
 
             <div className="bg-white p-6 rounded-xl shadow-md border-l-4 border-cyan-300">
               <h3 className="text-xl font-semibold mb-1">🧠 Mes compétences</h3>
-              <p>
-                Développement <strong>frontend</strong> avec React, Next.js, Tailwind, et
-                <strong> backend</strong> avec Node.js, Laravel, MongoDB. Création d’applications
-                mobiles avec Flutter. Design UI/UX, intégration d’API, gestion de projet agile.
-              </p>
+             <p>Développement <strong>frontend</strong> avec React, Next.js, Tailwind, et
+              <strong>backend</strong> avec Node.js, Express, MongoDB. Création d&apos;applications mobiles avec flutter. Intégration d&apos;API, design UI/UX, gestion de projet agile.</p>
             </div>
 
             <div className="bg-white p-6 rounded-xl shadow-md border-l-4 border-purple-400">
               <h3 className="text-xl font-semibold mb-1">🌍 Mes atouts</h3>
-              <p>
-                Bilingue français, créative et curieuse, je suis toujours à jour sur les dernières
-                technologies du développement.
-              </p>
+             <p>Une opportunité ou un projet stimulant dans lequel je pourrais mettre en valeur ma polyvalence, mon sens du design et mon efficacité en développement full-stack.</p>
+
             </div>
 
             <div className="bg-white p-6 rounded-xl shadow-md border-l-4 border-yellow-400">
